@@ -3,7 +3,7 @@
 <strong>Introduction</strong>
 
 Welcome to the GitHub repository for the classic game "2048"!<br>
-This repository contains the source code for the game implemented in JavaScript, HTML, and SCSS.<br><br>
+This repository contains the source code for the game implemented in <strong>JavaScript, HTML, and SCSS</strong>.<br><br>
 "2048" is a simple yet addictive puzzle game where the objective is to slide numbered tiles on a <br>
 grid to combine them and create a tile with the number 2048.
 
